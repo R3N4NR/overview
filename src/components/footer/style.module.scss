@@ -1,0 +1,22 @@
+.container{
+    background: linear-gradient(to top, #1C1414 10%, #493333);
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+
+    a{
+        font-size: 1.25rem;
+        font-weight: 500;
+        color: var(--white);
+    }
+}
+@media(max-width: 620px){
+    .container{
+        justify-content: space-around;
+        a{
+            font-size: 14px;
+        }
+    }
+}

@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# README
 
-## Getting Started
+## Overview da Carreira
 
-First, run the development server:
+Este projeto tem como objetivo fornecer uma visão abrangente da minha carreira, destacando experiências, habilidades e projetos relevantes. Utilizando Next.js como base, a aplicação proporciona uma experiência de navegação dinâmica e intuitiva.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Estrutura do Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O projeto é estruturado de forma a destacar as seguintes partes da minha carreira:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. *Educação e Formação:* Detalhes sobre minha formação acadêmica, cursos relevantes e certificações.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. *Experiência Profissional:* Uma seção dedicada a experiências profissionais anteriores e atuais, incluindo informações sobre empresas, cargos e responsabilidades.
 
-## Learn More
+3. *Projetos Destacados:* Destaque de projetos significativos que contribuíram para o desenvolvimento das minhas habilidades e conhecimentos.
 
-To learn more about Next.js, take a look at the following resources:
+4. *Habilidades Técnicas:* Lista de habilidades técnicas adquiridas ao longo da carreira.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tecnologias Utilizadas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+O projeto é desenvolvido utilizando Next.js, um framework React de última geração que facilita a construção de aplicações web modernas e eficientes. Além disso, a API necessária para alimentar o conteúdo é consumida de um link externo, garantindo a integração de dados atualizados.
 
-## Deploy on Vercel
+## Como Executar o Projeto Localmente
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Certifique-se de ter o Node.js instalado em sua máquina.
+2. Clone este repositório.
+3. Navegue até o diretório do projeto e execute npm install para instalar as dependências.
+4. Execute npm run dev para iniciar o servidor de desenvolvimento.
+5. Acesse a aplicação em seu navegador através do link fornecido no console.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Sinta-se à vontade para explorar e compartilhar suas sugestões para melhorar esta visão geral da minha carreira!
